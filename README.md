@@ -9,6 +9,7 @@ Sockets Links.
  server .
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
+```
 client.py
 import socket
 s=socket.socket()
@@ -30,7 +31,7 @@ while True:
 
 
 
-
+```
 ## OUPUT
 
 ![Screenshot (85)](https://github.com/user-attachments/assets/a7723f69-c88b-40c4-a720-3beff4794776)
